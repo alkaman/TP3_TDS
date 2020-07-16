@@ -1,0 +1,5 @@
+Con ese display y el adaptador más el rtc del micro hacé un reloj que muestre hora minutos y segundos.
+No te preocupes demasiado por como ponerlo en hora.
+Medi los tiempos de de las tareas, elegí el ts. Mándame el link al código, los tiempos, la carga del procesador y un vídeo.
+Usa cualquiera de los micros
+Saludos
