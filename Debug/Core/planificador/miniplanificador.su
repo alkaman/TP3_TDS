@@ -1,0 +1,4 @@
+miniplanificador.c:21:6:inicializar_despachador	32	static
+miniplanificador.c:36:5:agregar_tarea	24	static
+miniplanificador.c:60:5:despachar_tarea	24	static
+miniplanificador.c:83:6:despachar_tareas	16	static
